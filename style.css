@@ -123,10 +123,11 @@ font-weight: 600;
 font-size: 25px;
 line-height: 30px;
 color: #021E46;
-margin: 0px 0px 30px 0px;
+margin: 0px 0px 20px 0px;
 }
 .job_experience_subtitle {
-    margin: 0px 0px 20px 0px;
+    margin: 0px 0px 10px 57px;
+
 }
 .job_experience_responsibilities {
     margin: 0px 0px 0px 110px;
@@ -138,6 +139,129 @@ margin: 0px 0px 30px 0px;
     padding: 0px 0px 0px 30px;
     margin: 0px 0px 5px 0px;
 }
+.job_experience_responsibilities li:last-child {
+    margin:0px;
+}
 .responsibilities {
 }
+.job_experience_proffesional_achievement{
+    margin: 30px 0px;
+}
+.achievement_list li {
+    background: url(/rsschool-cv/img/Vector.svg)2px 5px no-repeat;
+    padding: 0px 0px 10px 30px;
+    margin: 0px;
+    
+}
+.job_experience_proffesional_achievement_list{
+    margin: 0px 0px 0px 110px;
+}
 /*-----------------------------job_experience__row---------------------------*/
+
+
+/*-----------------------------education---------------------------*/
+
+.title_education {
+margin: 60px 0px 30px 0px;
+}
+.job_experience_name_of_company {
+    display: flex;
+    display: wrap;
+}
+.specialization {
+
+}
+.job_experience_subtitle {
+}
+.font_body {
+}
+.title_univerity_row{
+display: flex;
+}
+
+
+/*-----------------------------sertificat---------------------------*/
+.sertificat{
+    margin: 60px 0px 0px 0px;
+}
+.title_sertificart {
+}
+.title_project {
+}
+.sertificat_row {
+}
+.google_sertificat {
+}
+.google_sertificat_row {
+    display: flex;
+}
+
+.google_projectmangment {
+    margin: 0px 0px 10px 57px;
+}
+.list_of_sertificat {
+    padding: 13px 0px 0px 0px;
+}
+.list_of_sertificat li {
+    background: url(/rsschool-cv/img/Vector.svg) 2px 5px no-repeat;
+    padding: 0px 0px 10px 30px;
+    margin: 0px 0px 0px 60px;
+}
+
+/* .list_of_sertificat li:last-child {
+    margin:0px;
+} */
+.ietles_sertificat_row {
+    display: flex;
+}
+.ietles_sertificat_ietles {
+    margin: 0px 0px 0px 37px;
+    padding: 10px 0px 0px
+    
+}
+.list_of_sertificat_ietles{
+    margin: 55px 0px 0px 0px;
+}
+.list_of_sertificat li {
+    background: url(/rsschool-cv/img/Vector.svg) 2px 5px no-repeat;
+    
+}
+.font_body {
+}
+
+
+.rollingscopes_sertificat_row {
+    margin: 60px 0px 60px 60px;
+    display: flex;
+}
+.rollingscopes_sertificat_ietles img {
+    width: 300px;
+    height: 100px;
+}
+.achievement_list li{
+    margin: 0 auto;
+}
+.rollingscopes_sertificat_ietles {
+}
+.list_of_sertificat_rollingscopes {
+}
+.list_of_sertificat {
+}
+.font_body {
+}
+
+.skills {
+
+}
+.title_skills {
+}
+.title_project {
+    margin: 0px 0px 30px 0px;
+}
+.job_experience_proffesional_achievement_list {
+    margin: 0px 0px 30px 0px;
+}
+.achievement_list {
+}
+.font_body {
+}
